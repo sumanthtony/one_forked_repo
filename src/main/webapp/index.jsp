@@ -11,8 +11,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
         <h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-        <h1 style="color: red; font-size: 40px;" align="center">Im learning tomcat to create app</h1>
-        <h1 style="color: lightgreen; font-size: 40px;" align="center">praticing nexus to become devops engineer</h1>
+        <h1 style="color: blue; font-size: 40px;" align="center">learnt how to deploy tomcat application using jenkins/cd</h1>
+       
         
 	
 	
