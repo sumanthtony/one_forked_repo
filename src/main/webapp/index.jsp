@@ -12,6 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with tomact</h1>
         <h1 style="color: black; font-size: 40px;" align="center">we are done with tomcat server</h1>
         <h1 style="color: blue; font-size: 40px;" align="center">learnt how to deploy tomcat application using jenkins/cd</h1>
+        <h1 style="color: blue; font-size: 40px;" align="center">learning jenkins/cd</h1>
        
         
 	
